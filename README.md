@@ -24,7 +24,7 @@ Target variable: **median_house_value**
 
 Initial analysis was performed to understand feature distributions, missing values, and relationships between variables.
 
-![Feature Distribution](images/histograms.png)
+![Feature Distribution](images/target_distribution.png)
 
 ---
 
