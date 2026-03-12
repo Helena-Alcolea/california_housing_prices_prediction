@@ -26,6 +26,7 @@ Initial analysis was performed to understand feature distributions, missing valu
 
 ![Feature Distribution](images/target_distribution.png)
 
+![Feature Distribution](images/correlation_matrix.png)
 ---
 
 ## Models Evaluated
@@ -37,6 +38,8 @@ Three regression models were trained and compared using cross-validation:
 - Random Forest Regressor
 
 The **Random Forest** model achieved the best performance and was selected as the final model.
+
+![Feature Distribution](images/feature_importance.png)
 
 
 ## Technologies
