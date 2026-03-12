@@ -30,6 +30,7 @@ The distribution of `median_house_value` is right-skewed, with a concentration o
 The correlation matrix highlights the relationships between the variables. `median_income` shows the strongest correlation with the target variable, suggesting that income levels are a key predictor of housing prices.
 
 ![Feature Distribution](images/correlation_matrix.png)
+
 ---
 
 ## Data Preprocessing
@@ -68,7 +69,13 @@ The Random Forest feature importance plot shows that `median_income` is the most
 
 ![Feature Distribution](images/feature_importance.png)
 
+---
 
+## Future Improvements
+
+Possible extensions include additional feature engineering (e.g., housing ratios such as rooms per household), broader hyperparameter optimization, and testing other ensemble methods such as Gradient Boosting.
+
+---
 ## Technologies
 
 - Python  
