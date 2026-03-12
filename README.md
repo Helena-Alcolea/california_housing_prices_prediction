@@ -102,3 +102,20 @@ Possible extensions include additional feature engineering (e.g., housing ratios
 - Matplotlib  
 - Scikit-learn  
 - Jupyter Notebook
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Helena-Alcolea/california_housing_prices.svg?style=flat
+[contributors-url]: https://github.com/Helena-Alcolea/california_housing_prices/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Helena-Alcolea/california_housing_prices.svg?style=flat
+[forks-url]: https://github.com/Helena-Alcolea/california_housing_prices/forks
+[stars-shield]: https://img.shields.io/github/stars/Helena-Alcolea/california_housing_prices.svg?style=flat
+[stars-url]: https://github.com/Helena-Alcolea/california_housing_prices/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Helena-Alcolea/california_housing_prices.svg?style=flat
+[issues-url]: https://github.com/Helena-Alcolea/california_housing_prices/issues
+[license-shield]: https://img.shields.io/github/license/Helena-Alcolea/california_housing_prices.svg?style=flat
+[license-url]: https://github.com/Helena-Alcolea/california_housing_prices/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/helena-alcolea
