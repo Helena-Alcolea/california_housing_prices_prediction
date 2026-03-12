@@ -116,6 +116,6 @@ Possible extensions include additional feature engineering (e.g., housing ratios
 [issues-shield]: https://img.shields.io/github/issues/Helena-Alcolea/california_housing_prices.svg?style=flat
 [issues-url]: https://github.com/Helena-Alcolea/california_housing_prices/issues
 [license-shield]: https://img.shields.io/github/license/Helena-Alcolea/california_housing_prices.svg?style=flat
-[license-url]: https://github.com/Helena-Alcolea/california_housing_prices/blob/main/LICENSE
+[license-url]: https://github.com/Helena-Alcolea/california_housing_prices/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/helena-alcolea
