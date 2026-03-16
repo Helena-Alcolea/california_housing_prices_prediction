@@ -14,6 +14,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 # california_housing_prices_prediction
 End-to-end machine learning workflow for predicting California housing prices using the **California Housing dataset**, including EDA, preprocessing pipelines, feature engineering, and regression model training.
