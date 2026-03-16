@@ -26,6 +26,8 @@ End-to-end machine learning workflow for predicting California housing prices us
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+---
+
 ## Dataset
 
 The dataset contains the following information about housing districts in California, derived from the 1990 census:
@@ -100,16 +102,6 @@ The Random Forest feature importance plot shows that `median_income` is the most
 
 Possible extensions include additional feature engineering (e.g., housing ratios such as rooms per household), broader hyperparameter optimization, and testing other ensemble methods such as Gradient Boosting.
 
----
-## Technologies
-
-- Python  
-- Pandas
-- Seaborn
-- NumPy  
-- Matplotlib  
-- Scikit-learn  
-- Jupyter Notebook
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
