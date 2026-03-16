@@ -53,6 +53,7 @@ Target variable: **median_house_value**
 Initial analysis was performed to understand feature distributions, missing values, and relationships between variables.
 
 The distribution of `median_house_value` is right-skewed, with a concentration of observations in lower price ranges and a few high-price outliers. The median house value in the dataset is approximately **$179,700**.
+
 ![Feature Distribution](images/target_distribution.png)
 
 The correlation matrix highlights the relationships between the variables. `median_income` shows the strongest correlation with the target variable, suggesting that income levels are a key predictor of housing prices.
