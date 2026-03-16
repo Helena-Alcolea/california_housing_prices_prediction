@@ -104,6 +104,12 @@ The Random Forest feature importance plot shows that `median_income` is the most
 
 Possible extensions include additional feature engineering (e.g., housing ratios such as rooms per household), broader hyperparameter optimization, and testing other ensemble methods such as Gradient Boosting.
 
+---
+
+## License
+
+Distributed under the MIT License. See LICENSE.txt for more information.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
